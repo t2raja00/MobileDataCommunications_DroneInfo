@@ -1,0 +1,7 @@
+As a user, I can see current type of weather
+As a user, I can see current temperature
+As a user, I can see the amount of wind
+As a user, I can see current humidity
+As a user, I can change any city for checking weather
+As a user, I can see news concerning flying in a list view
+As a user, app is easy to use and looks polished
